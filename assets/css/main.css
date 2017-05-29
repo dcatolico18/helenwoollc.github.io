@@ -1093,17 +1093,14 @@
 		text-transform: lowercase;
 		font-size: 1.6em;
 		letter-spacing: -1px;
-		margin-bottom: 1em;
 	}
 
 	h3, h4 {
 		color: #283121;
-		margin-bottom: 0.5em;
 	}
 
 	h3 {
 		font-size: 1.2em;
-		margin-bottom: 0.8em;
 	}
 
 	h4 {
@@ -1111,7 +1108,7 @@
 	}
 
 	p, ul {
-		margin-bottom: 1.25em;
+		margin-bottom: 1em;
 	}
 
 	p {
