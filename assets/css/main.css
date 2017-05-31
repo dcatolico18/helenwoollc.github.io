@@ -1561,11 +1561,11 @@
 		/* Header */
 
 			#header-wrapper {
-				background-image: -moz-linear-gradient(top, #878e83, #878e83);
-				background-image: -webkit-linear-gradient(top, #878e83, #878e83);
-				background-image: -ms-linear-gradient(top, #878e83, #878e83);
-				background-image: linear-gradient(top, #878e83, #878e83);
-				background-color: #878e83;
+				background-image: -moz-linear-gradient(top, #0067b1, #0067b1);
+				background-image: -webkit-linear-gradient(top, #0067b1, #0067b1);
+				background-image: -ms-linear-gradient(top, #0067b1, #0067b1);
+				background-image: linear-gradient(top, #0067b1, #0067b1);
+				background-color: #0067b1;
 			}
 
 			#header {
