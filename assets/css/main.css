@@ -1273,10 +1273,6 @@
 			}
 
 			#header {
-				background-image: -moz-linear-gradient(top, #0782a0, #0782a0 );
-				background-image: -webkit-linear-gradient(top, #0782a0, #0782a0 );
-				background-image: -ms-linear-gradient(top, #0782a0, #0782a0 );
-				background-image: linear-gradient(top, #0782a0, #0782a0 );
 				-moz-box-sizing: content-box;
 				-webkit-box-sizing: content-box;
 				-ms-box-sizing: content-box;
@@ -1287,7 +1283,7 @@
 				border-radius: 10px;
 				border: solid 1px #006e8b;
 				box-shadow: inset 0px 0px 0px 1px #12a0bf, 0px 1px 4px 0px rgba(0, 0, 0, 0.1);
-				background-color: #0782a0 ;
+				background-color: #0067b1 ;
 				height: 86px;
 			}
 
