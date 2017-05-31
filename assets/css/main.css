@@ -1193,10 +1193,10 @@
 		}
 
 	.button {
-		background-image: -moz-linear-gradient(top, #008dad, #0067B1 );
-		background-image: -webkit-linear-gradient(top, #008dad, #0067B1 );
-		background-image: -ms-linear-gradient(top, #008dad, #0067B1 );
-		background-image: linear-gradient(top, #008dad, #0067B1 );
+		background-image: -moz-linear-gradient(top, #0067B1, #0067B1 );
+		background-image: -webkit-linear-gradient(top, #0067B1, #0067B1 );
+		background-image: -ms-linear-gradient(top, #0067B1, #0067B1 );
+		background-image: linear-gradient(top, #0067B1, #0067B1 );
 		display: inline-block;
 		padding: 15px 25px 15px 25px;
 		background-color: #0067B1 ;
@@ -1265,11 +1265,11 @@
 		/* Header */
 
 			#header-wrapper {
-				background-image: -moz-linear-gradient(top, #008dab, #981e32);
-				background-image: -webkit-linear-gradient(top, #008dab, #981e32);
-				background-image: -ms-linear-gradient(top, #008dab, #981e32);
-				background-image: linear-gradient(top, #008dab, #981e32);
-				background-color: #981e32;
+				background-image: -moz-linear-gradient(top, #878e83, #878e83);
+				background-image: -webkit-linear-gradient(top, #878e83, #878e83);
+				background-image: -ms-linear-gradient(top, #878e83, #878e83);
+				background-image: linear-gradient(top, #878e83, #878e83);
+				background-color: #878e83;
 			}
 
 			#header {
@@ -1561,11 +1561,11 @@
 		/* Header */
 
 			#header-wrapper {
-				background-image: -moz-linear-gradient(top, #008dab, #981e32);
-				background-image: -webkit-linear-gradient(top, #008dab, #981e32);
-				background-image: -ms-linear-gradient(top, #008dab, #981e32);
-				background-image: linear-gradient(top, #008dab, #981e32);
-				background-color: #981e32;
+				background-image: -moz-linear-gradient(top, #878e83, #878e83);
+				background-image: -webkit-linear-gradient(top, #878e83, #878e83);
+				background-image: -ms-linear-gradient(top, #878e83, #878e83);
+				background-image: linear-gradient(top, #878e83, #878e83);
+				background-color: #878e83;
 			}
 
 			#header {
@@ -1655,10 +1655,10 @@
 			}
 
 			#titleBar {
-				background-image: -moz-linear-gradient(top, #008dab, #981e32);
-				background-image: -webkit-linear-gradient(top, #008dab, #981e32);
-				background-image: -ms-linear-gradient(top, #008dab, #981e32);
-				background-image: linear-gradient(top, #008dab, #981e32);
+				background-image: -moz-linear-gradient(top, #878e83, #878e83);
+				background-image: -webkit-linear-gradient(top, #878e83, #878e83);
+				background-image: -ms-linear-gradient(top, #878e83, #878e83);
+				background-image: linear-gradient(top, #878e83, #878e83);
 				-moz-backface-visibility: hidden;
 				-webkit-backface-visibility: hidden;
 				-ms-backface-visibility: hidden;
@@ -1677,7 +1677,7 @@
 				text-align: center;
 				color: #fff;
 				font-size: 1.25em;
-				background-color: #981e32;
+				background-color: #878e83;
 			}
 
 				#titleBar .title {
