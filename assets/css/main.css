@@ -1341,6 +1341,7 @@
 
 			#banner-wrapper {
 				background: #c8d2bc url(images/bg1.png);
+				background-size: cover;
 				padding: 2em 0;
 			}
 
